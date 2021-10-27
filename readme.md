@@ -3,7 +3,7 @@
 
 <img src="./IIDAMARU/H268/measure/0001/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0002/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0003/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0004/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0005/image_L.jpg" width=200>
 
-# IIDAMARU
+# IIDAMARU dataset
 
 
 ・<a href="http://navi.cs.kumamoto-u.ac.jp/~koutaki/ISHIGAKI/H268.zip">H268: 250 stones (H268.zip 1.2GByte)</a> 
