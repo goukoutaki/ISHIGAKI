@@ -5,7 +5,7 @@
 
 # File structure
 
-<img src="./structure.png">
+<img src="./structure.png" width=200>
 
 # IIDAMARU
 
