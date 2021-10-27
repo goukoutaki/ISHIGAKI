@@ -1,4 +1,4 @@
-<H1>OpenISHIGAKI Dataset</H1>
+<H1>Open ISHIGAKI Dataset</H1>
 
 
 <img src="./IIDAMARU/H268/measure/0001/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0002/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0003/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0004/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0005/image_L.jpg" width=200>
