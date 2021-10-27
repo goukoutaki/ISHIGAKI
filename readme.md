@@ -26,13 +26,14 @@ This is the result of mapping by the stonemason.
 <img src="./structure.png" width=400>
 
 ## Files before the collapse of each stone
-Includes image data and contour data (unit: mm) before the collapse. Position data before the collapse is also available.
+Includes image data and 2D contour data (unit: mm) before the collapse. Position data before the collapse is also available.
 
 <img src="./before.png" width=400>
 
 ## Files after the collapse of each stone
+Includes stereo image pair, reconstructed 3D obj model, and 3D contour data (unit: mm) after the collapse. GPS Position data after the collapse is also available.
 
-<img src="./after.png" width=400>
+<img src="./after.png" width=700>
 
 
 # All files
