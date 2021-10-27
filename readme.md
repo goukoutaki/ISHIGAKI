@@ -3,6 +3,9 @@
 
 <img src="./IIDAMARU/H268/measure/0001/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0002/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0003/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0004/image_L.jpg" width=200><img src="./IIDAMARU/H268/measure/0005/image_L.jpg" width=200>
 
+
+
+
 # IIDAMARU dataset
 
 
@@ -28,6 +31,8 @@ Includes image data and contour data (unit: mm) before the collapse. Position da
 <img src="./before.png" width=400>
 
 ## Files after the collapse of each stone
+
+<img src="./after.png" width=400>
 
 
 # All files
