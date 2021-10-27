@@ -22,12 +22,12 @@ This is the result of mapping by the stonemason.
 
 <img src="./structure.png" width=400>
 
-## Each before the collapse files
+## Files before the collapse of each stone
 Includes image data and contour data (unit: mm) before the collapse. Position data before the collapse is also available.
 
 <img src="./before.png" width=400>
 
-
+## Files after the collapse of each stone
 
 
 # All files
